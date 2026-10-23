@@ -1,0 +1,12 @@
+=== B05 Local Reflection Matrix ===
+Practice answers - not an official student submission
+Seat: DEMO-B05-01 | Course: CS-352 | Term: 2026-Semester-II
+Rows: 1 | Columns: 6
+Study pattern: Consistent from week 1
+Consultations: None
+Key issue: Not answered
+Reading habit: Not answered
+Coding strength: Not answered
+Expected midterm: B
+[PASS] All required local checks
+B05 LOCAL READY | Reflection matrix verified
